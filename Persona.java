@@ -7,4 +7,6 @@ public class Persona {
     private String email;
 
     private String colorFav;
+
+    private String perfecto;
 }
