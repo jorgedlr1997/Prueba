@@ -5,4 +5,6 @@ public class Persona {
     private int age;
 
     private String email;
+
+    private String colorFav;
 }
